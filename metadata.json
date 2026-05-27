@@ -1,0 +1,6 @@
+{
+  "name": "Saumya's Sunflower Birthday",
+  "description": "An interactive, sunflower-themed modern web application and growth comic for Saumya's 18th birthday, featuring music, a dream archive, interactive cake, and positive wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
